@@ -1,0 +1,16 @@
+system_info:
+  os: Linux
+  node: raspberrypi
+hardware:
+  vendor_id: '0x10c4'
+  product_id: '0xea60'
+  manufacturer: Silicon Labs
+  product: CP2102 USB to UART Bridge Controller
+  serial_number: '0001'
+serial_config:
+  port: /dev/ttyUSB0
+  baudrate: 115200
+  timeout: 1
+  bytesize: 8
+  parity: N
+  stopbits: 1
